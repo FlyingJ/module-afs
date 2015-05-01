@@ -19,7 +19,7 @@
 #
 # === Authors
 #
-# Jason Harrington <jason@fnal.gov>
+# Author <author@domain.tld>
 #
 # === Copyright
 #
